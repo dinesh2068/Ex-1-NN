@@ -1,8 +1,8 @@
-`<H3>`ENTER YOUR NAME`</H3>`
-`<H3>`ENTER YOUR REGISTER NO.`</H3>`
-`<H3>`EX. NO.1`</H3>`
-`<H3>`DATE`</H3>`
-`<H1 ALIGN =CENTER>` Introduction to Kaggle and Data preprocessing`</H1>`
+<H3>DINESHKARTHIK N</H3>
+<H3> 212223220021 </H3>
+<H3>EX. NO.1</H3>
+<H3>23-04-2025</H3>
+<H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
 
